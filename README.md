@@ -75,7 +75,6 @@
       </p>
       <ul>
         <li>✨ <b>Tính năng chính:</b> Kanban Board kéo thả, Theo dõi thu chi & ngân sách, Lịch trình thông minh, Dashboard phân tích tài chính.</li>
-        <li>🌐 <b>Trải nghiệm trực tiếp:</b> <a href="https://fluxworkspace.vercel.app/" target="_blank"><b>fluxworkspace.vercel.app</b></a></li>
         <li>🔒 <b>Bảo mật:</b> JWT Authentication, HttpOnly Cookie, CORS configuration, Hash password an toàn.</li>
       </ul>
     </td>
