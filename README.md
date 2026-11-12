@@ -87,9 +87,9 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=lethanhkha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&line_height=20" width="48.5%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=lethanhkha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&line_height=24&card_width=445" width="48.5%" alt="GitHub Stats" />
   &nbsp;
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lethanhkha&layout=compact&theme=tokyonight&hide_border=true&card_width=445" width="48.5%" alt="Top Langs" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lethanhkha&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&card_width=445" width="48.5%" alt="Top Langs" />
 
   <br/><br/>
 
