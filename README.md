@@ -35,29 +35,25 @@
 
 ### 🛠️ Kỹ Năng & Công Nghệ (Tech Stack)
 
-<div align="center">
-
 #### 💻 Ngôn ngữ lập trình (Programming Languages)
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts,html,css" alt="Languages" />
 </p>
 
 #### ⚡ Frameworks, Thư viện & Nền tảng (Frameworks & Libraries)
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=spring,react,tailwind,nodejs,express,vite" alt="Frameworks" />
 </p>
 
 #### 🗄️ Cơ sở dữ liệu (Databases & Storage)
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" alt="Databases" />
 </p>
 
 #### 🔧 Công cụ & DevOps (Tools & DevOps)
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,docker,prisma,postman,vscode" alt="Tools" />
 </p>
-
-</div>
 
 ---
 
