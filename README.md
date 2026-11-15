@@ -86,8 +86,8 @@
 ### 📊 Thống Kê Hoạt Động (GitHub Metrics)
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=lethanhkha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&line_height=24&card_width=445" width="48%" align="top" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lethanhkha&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&card_width=445" width="48%" align="top" alt="Top Langs" />
+  <img src="https://streak-stats.demolab.com?user=lethanhkha&theme=tokyonight&hide_border=true&card_width=445&card_height=190" width="48%" align="top" alt="GitHub Streak" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=lethanhkha&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&card_width=445" width="48%" align="top" alt="Top Langs" />
   <br/><br/>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lethanhkha/lethanhkha/output/github-contribution-grid-snake-dark.svg">
